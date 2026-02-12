@@ -2,4 +2,4 @@ Deep learning model for classifying type of tree cover based on US Geological Su
 
 This is intended to be for practice/fun.
 
-Welcome any tips/improvements. Thanks!
+Ideas/improvements welcome!
